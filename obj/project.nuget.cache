@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfma7G9qINc=",
+  "success": true,
+  "projectFilePath": "/home/abderraouf/Documents/Projects/JenkinsApp/JenkinsApp.csproj",
+  "expectedPackageFiles": [
+    "/home/abderraouf/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/abderraouf/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
